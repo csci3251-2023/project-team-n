@@ -1,15 +1,12 @@
-# introduction：
-Our group will complete a C language project that only includes the <stdio.h> header file in the code.
+# Introduction
+Our group will complete a C language project that only includes the <stdio.h> header file in the code. This project is part of the course CSCI3251-2023 and aims to demonstrate our skills and knowledge in C programming.
 
-This project is part of the course CSCI3251-2023 and aims to demonstrate our skills and knowledge in C programming.
-
-
-# code：
-
-code should be write here
+# Code
+```c
+// code should be written here
 
 
-# contributor：
+# Contributor：
 
 
 
