@@ -6,7 +6,10 @@ Our group will complete a C language project that only includes the <stdio.h> he
 // code should be written here
 
 
-# Contributor：
+
+//
+```
+# Contributor
 
 
 
