@@ -11,6 +11,11 @@ Our group will complete a C language project that only includes the <stdio.h> he
 ```
 # Contributor
 
+{% for stu in site.stu %}
+  <img src={{stu.image}}/>
+  <h2>{{ stu.user }}({{ stu.name }})</h2>
+  <p>{{ stu.content | markdownify }}</p>
+{% endfor %}
 
 
 
